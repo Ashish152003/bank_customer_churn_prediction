@@ -73,8 +73,3 @@ This project leverages machine learning—specifically a **neural network model*
 - Deploy using **Streamlit/Flask** for an interactive churn prediction app  
 
 ---
-
-## 📌 How to Run
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/Ashish152003/bank_customer_churn_prediction.git
