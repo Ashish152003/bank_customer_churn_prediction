@@ -72,4 +72,3 @@ This project leverages machine learning—specifically a **neural network model*
 - Apply **SHAP/Feature Importance** for explainability  
 - Deploy using **Streamlit/Flask** for an interactive churn prediction app  
 
----
